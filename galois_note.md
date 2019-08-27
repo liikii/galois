@@ -18,7 +18,7 @@
     xy = xz x−1xy = x−1xz y=z
     ```
 * ## !!!The cancellation law does not hold for monoids.
-
+* ### Determinant of a Matrix
 
 ## math symbol
 ```
