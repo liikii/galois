@@ -12,6 +12,13 @@
 * ### 求根问题 --> 根与系数关系问题  ---> 置换问题  ---> 子群问题 ???
 * ###  identity element
 * ### abelian group: Agroup G is commutative 
+* ###  If U = {1, 2, . . . , n} then Perm(U ) is called the symmetric group on n letters and it is denoted by Sn
+* ### Cancellation Law
+    ```
+    xy = xz x−1xy = x−1xz y=z
+    ```
+* ## !!!The cancellation law does not hold for monoids.
+
 
 ## math symbol
 ```
