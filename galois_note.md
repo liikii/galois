@@ -1,3 +1,6 @@
+
+
+
 * ### group, closure.
 * ### root permutation.
 * ### root and the coefficient symmetric function.
@@ -7,6 +10,13 @@
 * ### G(F/Q) galois group.
 * ### A2 A3 A4 alternating group.
 * ### 求根问题 --> 根与系数关系问题  ---> 置换问题  ---> 子群问题 ???
+
+
+## math symbol
+```
+∀x,y,z∈M all
+∃e ∈ M  exist
+```
 
 
 ## further reading
