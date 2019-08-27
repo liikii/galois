@@ -19,6 +19,7 @@
     ```
 * ## !!!The cancellation law does not hold for monoids.
 * ### Determinant of a Matrix
+* ### ⟨S⟩ = the smallest subgroup of G that contains S
 
 ## math symbol
 ```
