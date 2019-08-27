@@ -6,3 +6,4 @@
 * ### S2 S3 S4 Symmetric group
 * ### G(F/Q) galois group.
 * ### A2 A3 A4 alternating group.
+* ### 求根问题 --> 根与系数关系问题  ---> 置换问题  ---> 子群问题 ???
