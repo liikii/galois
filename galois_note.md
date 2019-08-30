@@ -20,6 +20,10 @@
 * ## !!!The cancellation law does not hold for monoids.
 * ### Determinant of a Matrix
 * ### ⟨S⟩ = the smallest subgroup of G that contains S
+    ```
+    Z = ⟨1⟩
+    H := {I,R1,R2} ⊆ GT is cyclic:H =⟨R1⟩ and H =⟨R2⟩
+    ```
 
 ## math symbol
 ```
@@ -41,3 +45,7 @@
 9) J.W. Milnor, Introduction to algebraic K-theory, 1972.
 10) S. Mac Lane, Categories for the working mathematician, GTM 5, 1998.
 ```
+
+### iff: If and only if
+
+
