@@ -47,5 +47,26 @@
 ```
 
 ### iff: If and only if
+### *quotient group* or *factor group*
+```
+G = {0, 1, 2, 3, 4, 5}.
+N = {0, 3}
+G/N = { a+N : a ∈ G } = { {0, 3}, {1, 4}, {2, 5} } = { 0+N, 1+N, 2+N }.
+```
+
+### isomorphism
+```
+The group of all real numbers with addition, (R,+), is isomorphic to the group of positive real numbers with multiplication (+R,×).
+```
+
+
+### quotient group
+```
+1. The kernel of φ is a normal subgroup of G,
+2. The image of φ is a subgroup of H, and
+3. The image of φ is isomorphic to the quotient group G / ker(φ).
+商群与分类
+```
+
 
 
