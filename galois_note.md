@@ -69,4 +69,8 @@ The group of all real numbers with addition, (R,+), is isomorphic to the group o
 ```
 
 
+### Second isomorphism theorem
+```
+This isomorphism theorem has been called the "diamond theorem" due to the shape of the resulting subgroup lattice with SN at the top, S⋂N at the bottom and with  N and  S to the sides.[4] It has even been called the "parallelogram theorem" because in the resulting subgroup lattice the two sides assumed to represent the quotient groups  (SN)/N  and  S/(S⋂N) are "equal" in the sense of isomorphism.
+```
 
