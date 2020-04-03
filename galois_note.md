@@ -87,6 +87,7 @@ This isomorphism theorem has been called the "diamond theorem" due to the shape 
 
 ---
 
-
+fundamental theorem of galois theory proof
+fundamental theorem of galois theory proof
 
 
