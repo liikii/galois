@@ -90,4 +90,7 @@ This isomorphism theorem has been called the "diamond theorem" due to the shape 
 fundamental theorem of galois theory proof
 fundamental theorem of galois theory proof
 
+Galois theory is based on a remarkable correspondence between subgroups of the Galois
+group of an extension E/F and intermediate fields between E and F. I
+
 
